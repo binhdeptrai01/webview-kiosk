@@ -1,4 +1,4 @@
-> [!WARNING]
+ > [!WARNING]
 >
 > Google's new developer verification requirements for 2026-2027 will
 > mean the end for side-loading and many alternate stores and projects
